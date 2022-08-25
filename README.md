@@ -6,4 +6,4 @@
   <li>🔨 Procuro colaborar com projetos Open Source</li>
  </ul>
  <h2>Minhas redes sociais:</h2>
- <img width='100' height='100' src='https://icons.iconarchive.com/icons/danleech/simple/128/linkedin-icon.png'></img>
+ <img width='50' height='50' src='https://icons.iconarchive.com/icons/danleech/simple/128/linkedin-icon.png'></img>
