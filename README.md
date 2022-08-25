@@ -8,15 +8,6 @@
 
 <hr>
 
-<h2>🎒 Pretendo estudar no futuro:</h2>
-<div>
-  <img width='50' height='50' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png' alt='Tailwind'>
-  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968381.png' alt='TypeScript'>
-  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png' alt='React'>
-</div>
-
-<hr>
-
 <h2>💻 Linguagens e Ferramentas:</h2>
 <div>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968267.png' alt='HTML5'>
@@ -36,6 +27,15 @@
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968242.png' alt='CSS3'>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968672.png' alt='Bootstrap'>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='JavaScript'>
+</div>
+
+<hr>
+
+<h2>🎒 Pretendo estudar no futuro:</h2>
+<div>
+  <img width='50' height='50' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png' alt='Tailwind'>
+  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968381.png' alt='TypeScript'>
+  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png' alt='React'>
 </div>
 
 <hr>
