@@ -34,6 +34,16 @@
 
 <h2>📚 Atualmente estudando:</h2>
 <div>
+  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968267.png' alt='HTML5'>
+  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968242.png' alt='CSS3'>
+  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968672.png' alt='Bootstrap'>
+  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='JavaScript'>
+</div>
+
+<hr>
+
+<h2>🎒 Pretendo estudar no futuro:</h2>
+<div>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='JavaScript'>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968381.png' alt='TypeScript'>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png' alt='React'>
