@@ -1,6 +1,6 @@
 <h1>Bem vindo! Meu nome é Lucas e sou Frontend Developer 👋</h1>
 <ul>
-  <li>📚 Estou aprendendo JavaScript e suas funções!</li>
+  <li>🌱 Quero crescer no ramo da programação e criar projetos que ajudem as pessoas!</li>
   <li>👷 Estou procurando minha primeira oportunidade de trabalho!</li>
   <li>👯 Procuro colaborar com outros programadores que precisam de ajuda!</li>
   <li>🔨 Procuro colaborar com projetos Open Source</li>
@@ -28,6 +28,16 @@
   <img width='50' height='50' src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' alt='Git'>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='JavaScript'>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968322.png' alt='NodeJS'>
+</div>
+
+<hr>
+
+<h2>📚 Atualmente estudando:</h2>
+<div>
+  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='JavaScript'>
+  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968381.png' alt='TypeScript'>
+  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png' alt='React'>
+  <img width='50' height='50' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png' alt='Tailwind'>
 </div>
 
 <hr>
