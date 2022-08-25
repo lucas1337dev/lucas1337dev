@@ -1,4 +1,4 @@
-<h1 align='center'>Bem vindo! Meu nome é Lucas e sou Frontend Developer 👋</h1>
+<h1>Bem vindo! Meu nome é Lucas e sou Frontend Developer 👋</h1>
 <ul>
   <li>🌱 Quero crescer no ramo da programação e criar projetos que ajudem as pessoas!</li>
   <li>👷 Estou procurando minha primeira oportunidade de trabalho!</li>
