@@ -7,3 +7,4 @@
  </ul>
  <h2>Minhas redes sociais:</h2>
  <img width='50' height='50' src='https://icons.iconarchive.com/icons/danleech/simple/128/linkedin-icon.png'></img>
+ <img width='50' height='50' src='https://icons.iconarchive.com/icons/danleech/simple/128/github-icon.png'></img>
