@@ -40,6 +40,13 @@
 
 <hr>
 
+<h2>📈 GitHub Stats</h2>
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lucas1337dev&theme=dracula)](https://github.com/lucas1337dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas1337dev&theme=dracula&layout=compact)](https://github.com/lucas1337dev)
+
+<hr>
+
 <h2>🌎 Minhas redes sociais:</h2>
 <div>
   <a href='https://www.linkedin.com/in/lucas-barbosa-b49953231/' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/3536/3536505.png'></a> <!-- Linkedin -->
@@ -48,11 +55,3 @@
   <a href='#' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/2111/2111463.png'></a> <!-- Instagram -->
   <a href='#' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/124/124015.png'></a> <!-- Youtube -->
 </div>
-
-<hr>
-
-<h2>📈 GitHub Stats</h2>
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=lucas1337dev&theme=dracula)](https://github.com/lucas1337dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas1337dev&theme=dracula&layout=compact)](https://github.com/lucas1337dev)
-
