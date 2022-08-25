@@ -10,11 +10,11 @@
 
 <h2>🌎 Minhas redes sociais:</h2>
 <div>
-  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/3536/3536505.png'><a href='#'></a>
-  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/3291/3291667.png'><a href='#'></a>
-  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/3536/3536424.png'><a href='#'></a>
-  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/2111/2111463.png'><a href='#'></a>
-  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/124/124015.png'><a href='#'></a>
+  <a href='https://www.linkedin.com/in/lucas-barbosa-b49953231/' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/3536/3536505.png'></a> <!-- Linkedin -->
+  <a href='#' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/3291/3291667.png'></a> <!-- GitHub -->
+  <a href='#' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/3536/3536424.png'></a> <!-- Twitter -->
+  <a href='#' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/2111/2111463.png'></a> <!-- Instagram -->
+  <a href='#' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/124/124015.png'></a> <!-- Youtube -->
 </div>
 
 <hr>
