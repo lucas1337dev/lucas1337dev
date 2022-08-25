@@ -4,7 +4,9 @@
   <li>👷 Estou procurando minha primeira oportunidade de trabalho!</li>
   <li>👯 Procuro colaborar com outros programadores que precisam de ajuda!</li>
   <li>🔨 Procuro colaborar com projetos Open Source</li>
- </ul>
- <h2>Minhas redes sociais:</h2>
- <img width='50' height='50' src='https://icons.iconarchive.com/icons/danleech/simple/128/linkedin-icon.png'></img>
- <img width='50' height='50' src='https://icons.iconarchive.com/icons/danleech/simple/128/github-icon.png'></img>
+</ul>
+<h2>Minhas redes sociais:</h2>
+<div>
+  <img width='50' height='50' src='https://icons.iconarchive.com/icons/danleech/simple/128/linkedin-icon.png'></img>
+  <img width='50' height='50' src='https://icons.iconarchive.com/icons/danleech/simple/128/github-icon.png'></img>
+</div>
