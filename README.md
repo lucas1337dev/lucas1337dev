@@ -8,13 +8,11 @@
 
 <hr>
 
-<h2>🌎 Minhas redes sociais:</h2>
+<h2>🎒 Pretendo estudar no futuro:</h2>
 <div>
-  <a href='https://www.linkedin.com/in/lucas-barbosa-b49953231/' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/3536/3536505.png'></a> <!-- Linkedin -->
-  <a href='https://github.com/lucas1337dev' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/3291/3291667.png'></a> <!-- GitHub -->
-  <a href='#' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/3536/3536424.png'></a> <!-- Twitter -->
-  <a href='#' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/2111/2111463.png'></a> <!-- Instagram -->
-  <a href='#' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/124/124015.png'></a> <!-- Youtube -->
+  <img width='50' height='50' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png' alt='Tailwind'>
+  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968381.png' alt='TypeScript'>
+  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png' alt='React'>
 </div>
 
 <hr>
@@ -42,11 +40,13 @@
 
 <hr>
 
-<h2>🎒 Pretendo estudar no futuro:</h2>
+<h2>🌎 Minhas redes sociais:</h2>
 <div>
-  <img width='50' height='50' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png' alt='Tailwind'>
-  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968381.png' alt='TypeScript'>
-  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png' alt='React'>
+  <a href='https://www.linkedin.com/in/lucas-barbosa-b49953231/' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/3536/3536505.png'></a> <!-- Linkedin -->
+  <a href='https://github.com/lucas1337dev' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/3291/3291667.png'></a> <!-- GitHub -->
+  <a href='#' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/3536/3536424.png'></a> <!-- Twitter -->
+  <a href='#' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/2111/2111463.png'></a> <!-- Instagram -->
+  <a href='#' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/124/124015.png'></a> <!-- Youtube -->
 </div>
 
 <hr>
