@@ -14,9 +14,10 @@
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968242.png' alt='CSS3'>
   <img width='50' height='50' src='https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg' alt='SASS'>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968672.png' alt='Bootstrap'>
+  <img width='50' height='50' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png' alt='Tailwind'>
   <img width='50' height='50' src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' alt='Git'>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='JavaScript'>
-  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968322.png' alt='NodeJS'>
+  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png' alt='React'>
 </div>
 
 <hr>
@@ -25,13 +26,6 @@
 <div>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png' alt='React'>
   <img width='50' height='50' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png' alt='Tailwind'>
-</div>
-
-<hr>
-
-<h2>🎒 Pretendo estudar no futuro:</h2>
-<div>
-  <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968381.png' alt='TypeScript'>
 </div>
 
 <hr>
