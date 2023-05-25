@@ -3,7 +3,7 @@
   <li>🌱 Quero crescer no ramo da programação e criar projetos que ajudem as pessoas!</li>
   <li>👷 Estou procurando minha primeira oportunidade de trabalho!</li>
   <li>👯 Procuro colaborar com outros programadores que precisam de ajuda!</li>
-  <li>🔨 Procuro colaborar com projetos Open Source</li>
+  <li>🔨 Procuro colaborar com projetos Open Source!</li>
 </ul>
 
 <hr>
