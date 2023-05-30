@@ -8,7 +8,7 @@
 
 <hr>
 
-<h2>💻 Linguagens e Ferramentas:</h2>
+<h2>💻 Languages and Tools:</h2>
 <div>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968267.png' alt='HTML5'>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968242.png' alt='CSS3'>
@@ -22,7 +22,7 @@
 
 <hr>
 
-<h2>📚 Atualmente estudando:</h2>
+<h2>📚 Currently Studing:</h2>
 <div>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png' alt='React'>
   <img width='50' height='50' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png' alt='Tailwind'>
@@ -31,7 +31,7 @@
 
 <hr>
 
-<h2>🌎 Minhas redes sociais:</h2>
+<h2>🌎 Socials:</h2>
 <div>
   <a href='https://www.linkedin.com/in/lucas-barbosa-b49953231/' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/3536/3536505.png'></a> <!-- Linkedin -->
   <a href='https://github.com/lucas1337dev' target='_blank'><img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/3291/3291667.png'></a> <!-- GitHub -->
