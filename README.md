@@ -8,7 +8,7 @@
 
 <hr>
 
-<h2>💻 Languages and Tools:</h2>
+<h2>💻 Tools:</h2>
 <div>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968267.png' alt='HTML5'>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968242.png' alt='CSS3'>
