@@ -1,9 +1,8 @@
 <h1>Welcome! My name is Lucas and I'm a Frontend Developer 👋</h1>
 <ul>
-  <li>🌱 Quero crescer no ramo da programação e criar projetos que ajudem as pessoas!</li>
-  <li>👷 Estou procurando minha primeira oportunidade de trabalho!</li>
-  <li>👯 Procuro colaborar com outros programadores que precisam de ajuda!</li>
-  <li>🔨 Procuro colaborar com projetos Open Source!</li>
+  <li>🌱 I want to grow on the programming area and help people with my projects!</li>
+  <li>👷 Looking forward for my first job opportunity.</li>
+  <li>🔨 Looking forward to collaborate in Open Source projects!</li>
 </ul>
 
 <hr>
