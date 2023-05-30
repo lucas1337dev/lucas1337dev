@@ -22,7 +22,7 @@
 
 <hr>
 
-<h2>📚 Currently Studing:</h2>
+<h2>📚 Currently Studying:</h2>
 <div>
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png' alt='React'>
   <img width='50' height='50' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png' alt='Tailwind'>
