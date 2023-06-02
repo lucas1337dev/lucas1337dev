@@ -9,7 +9,10 @@
 
 <h2>💻 Tools:</h2>
 <div>
-  <img width='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968267.png' alt='HTML5' />
+  <figure>
+    <img width='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968267.png' alt='HTML5' />
+    <figcaption>HTML 5</figcaption>
+  </figure>
   <img width='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968242.png' alt='CSS3' />
   <img width='50' src='https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg' alt='SASS' />
   <img width='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968672.png' alt='Bootstrap' />
