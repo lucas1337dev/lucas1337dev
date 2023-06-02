@@ -23,7 +23,7 @@
   <br />
   <h3>Design:</h3>
   <img width='50' height='50' src='https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg' alt='Figma' />
-  <img width='50' height='50' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYBYv5AH9RD63n8vMkv8PtIX7OWGF5qAguXA&usqp=CAU' alt='Blender' />
+  <img width='50' height='50' src='https://www.pngitem.com/pimgs/m/453-4536702_blender-ihs-markit-logo-white-hd-png-download.png' alt='Blender' />
 </div>
 
 <hr>
@@ -34,7 +34,7 @@
   <img width='50' height='50' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png' alt='Tailwind'>
   <img width='50' height='50' src='https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png' alt='ThreeJs'>
   <img width='50' src='https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png' alt='NextJs' />
-  <img width='50' height='50' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYBYv5AH9RD63n8vMkv8PtIX7OWGF5qAguXA&usqp=CAU' alt='Blender' />
+  <img width='50' height='50' src='https://www.pngitem.com/pimgs/m/453-4536702_blender-ihs-markit-logo-white-hd-png-download.png' alt='Blender' />
 </div>
 
 <hr>
