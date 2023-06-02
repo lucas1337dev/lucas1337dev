@@ -22,7 +22,7 @@
   <img width='50' src='https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png' alt='NextJs' />
   <br />
   <h3>Design:</h3>
-  <img width='50' src='https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg' alt='Figma' />
+  <img width='50' height='50' src='https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg' alt='Figma' />
 </div>
 
 <hr>
