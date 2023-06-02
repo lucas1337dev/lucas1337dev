@@ -23,7 +23,7 @@
   <br />
   <h3>Design:</h3>
   <img width='50' height='50' src='https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg' alt='Figma' />
-  <img width='50' height='50' src='https://pngset.com/images/blender-ihs-markit-logo-white-text-number-symbol-alphabet-transparent-png-1079357.png' alt='Blender' />
+  <img width='50' height='50' src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png' alt='Blender' />
 </div>
 
 <hr>
@@ -34,7 +34,7 @@
   <img width='50' height='50' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png' alt='Tailwind'>
   <img width='50' height='50' src='https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png' alt='ThreeJs'>
   <img width='50' src='https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png' alt='NextJs' />
-  <img width='50' height='50' src='https://pngset.com/images/blender-ihs-markit-logo-white-text-number-symbol-alphabet-transparent-png-1079357.png' alt='Blender' />
+  <img width='50' height='50' src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png' alt='Blender' />
 </div>
 
 <hr>
