@@ -18,7 +18,7 @@
   <img width='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' alt='JavaScript' />
   <img width='50' src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png' alt='React' />
   <img width='50' src='https://vitejs.dev/logo-with-shadow.png' alt='Vite' /> 
-  <img width='50' src='https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png' alt='NextJs' />
+  <img width='50' src='https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png' alt='NextJs' />
 </div>
 
 <hr>
@@ -28,7 +28,7 @@
   <img width='50' height='50' src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png' alt='React'>
   <img width='50' height='50' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png' alt='Tailwind'>
   <img width='50' height='50' src='https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png' alt='ThreeJs'>
-  <img width='50' src='https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png' alt='NextJs' />
+  <img width='50' src='https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png' alt='NextJs' />
 </div>
 
 <hr>
