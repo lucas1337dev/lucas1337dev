@@ -9,7 +9,7 @@
 
 <h2>💻 Tools:</h2>
 <div>
-  <h3>Development:</h3>
+  <h3>Web Development:</h3>
   <img width='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968267.png' alt='HTML5' />
   <img width='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968242.png' alt='CSS3' />
   <img width='50' src='https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg' alt='SASS' />
