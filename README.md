@@ -9,7 +9,7 @@
 
 <h2>💻 Tools:</h2>
 <div>
-  <h3>Development</h3>
+  <h3>Development:</h3>
   <img width='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968267.png' alt='HTML5' />
   <img width='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968242.png' alt='CSS3' />
   <img width='50' src='https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg' alt='SASS' />
@@ -20,7 +20,9 @@
   <img width='50' src='https://cdn-icons-png.flaticon.com/512/1126/1126012.png' alt='React' />
   <img width='50' src='https://vitejs.dev/logo-with-shadow.png' alt='Vite' /> 
   <img width='50' src='https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png' alt='NextJs' />
-  <h3>Design</h3>
+  <br />
+  <h3>Design:</h3>
+  <img width='50' src='https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg' alt='Figma' />
 </div>
 
 <hr>
