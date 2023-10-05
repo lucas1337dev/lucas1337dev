@@ -12,7 +12,7 @@
   <h3>Web Development:</h3>
   <img width='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968267.png' alt='HTML5' />
   <img width='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968242.png' alt='CSS3' />
-  <img width='50' src='https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg' alt='SASS' />
+  <img width='50' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fsass-lang.com%2Fstyleguide%2Fbrand%2F&psig=AOvVaw1D8CT3bX4_5UEHTStmFNrH&ust=1696615533309000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPiVrcO_34EDFQAAAAAdAAAAABAD' alt='SASS' />
   <img width='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968672.png' alt='Bootstrap' />
   <img width='50' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png' alt='Tailwind' />
   <img width='50' src='https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png' alt='Git' />
