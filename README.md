@@ -33,6 +33,9 @@
   <img width='50' height='50' src='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png' alt='Tailwind'>
   <img width='50' src='https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png' alt='NextJs' />
   <img width='50' src='https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp' alt='TypeScript' />
+  <img width='50' src='https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png' alt='NodeJs' />
+  <img width='50' src='https://miro.medium.com/v2/resize:fit:300/1*qFBhFBPyq-7Cx2CU3Ca1Kw.png' alt='MongoDB' />
+  <img width='50' src='https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png' alt='ExpressJs' />
 </div>
 
 <hr>
