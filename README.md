@@ -7,7 +7,7 @@
 
 <hr>
 
-<h2>💻 Tools:</h2>
+<h2>💻 Skills:</h2>
 <div>
   <h3>Web Development:</h3>
   <img width='50' src='https://cdn-icons-png.flaticon.com/512/5968/5968267.png' alt='HTML5' />
@@ -20,6 +20,9 @@
   <img width='50' src='https://vitejs.dev/logo-with-shadow.png' alt='Vite' /> 
   <img width='50' src='https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png' alt='NextJs' />
   <img width='50' src='https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp' alt='TypeScript' />
+  <img width='50' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png' alt='NodeJs' />
+  <img width='50' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png' alt='MongoDB' />
+  <img width='50' src='https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png' alt='ExpressJs' />
 </div>
 
 <hr>
